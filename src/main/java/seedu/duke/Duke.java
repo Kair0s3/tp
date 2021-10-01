@@ -30,7 +30,7 @@ public class Duke {
 
             switch (userInput) {
             case EXIT_COMMAND:
-                System.out.print("Goodbye!");
+                System.out.println("Goodbye!");
                 System.exit(0);
                 break;
             default:
