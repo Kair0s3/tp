@@ -9,7 +9,7 @@ This is a student project for Software Engineering & Object-Oriented Programming
 ## Summary of Contributions
 Below are my contributions to the `Decodex`
 
-*Note that the PR links are the more notable ones - easier to find.*
+*Note that the PR links below are the more notable ones - easier to find.*
 
 Features/Functionalities
 
