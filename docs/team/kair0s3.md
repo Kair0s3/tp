@@ -19,7 +19,7 @@ Features/Functionalities
 
 2. Added the ability to show current data ([#274](https://github.com/AY2122S1-CS2113T-T10-3/tp/pull/274))
     - Feature - Shows the user the current data that they have. By default, this current data will be your original data if no modules has been run on it.
-    - Justification - Allows user to keep track of the current data they are working on, mainly for convenience and also credits to @alwinangys for the [suggestion](https://github.com/alwinangys/ped/issues/4).
+    - Justification - Allows user to keep track of the current data they are working on, and also credits to @alwinangys for the [suggestion](https://github.com/alwinangys/ped/issues/4).
 
 3. Added Base64 Modules (Base64 Encoder and Decoder) ([#35](https://github.com/AY2122S1-CS2113T-T10-3/tp/pull/35))
     - Feature - Allows users to use these modules to encode/decode using base64 formats.
@@ -30,8 +30,8 @@ Features/Functionalities
     - Justification - Allows users to load previously saved recipes and provides convenience.
 
 5. Added ability to save recipe into file, and delete the recipe file ([#208](https://github.com/AY2122S1-CS2113T-T10-3/tp/pull/208/))
-    - Functionality - Saves the recipe into a file named `recipeName.txt` and stores it in the `recipe/` directory. Do note that, this is more of an auto-save whenever changes are made to `recipe`. For the deletion, the recipe file is deleted when the user deletes the `recipe` from `Decodex`.
-    - Justification - Allows users to auto-save their recipes into a file which provides convenience for users. And the deletion of the recipe file also provides convenience over having to delete manually.
+    - Functionality - Saves (Auto) the recipe into a file named `recipeName.txt` and stores it in the `recipe/` directory. The auto-deletion of the recipe file happens when user deletes the recipe on `Decodex`.
+    - Justification - Allows users to save recipes into file and delete without having to manually do it.
 
 ## Enhancements to Existing Features
 - Refactored and improved Coding Standards
