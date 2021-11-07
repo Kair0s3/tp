@@ -4,7 +4,7 @@
 This is a student project for Software Engineering & Object-Oriented Programming (CS2113/T). And, I am **Sim Tian Boon**, one of the contributors of `Decodex`.
 
 ## Project Name: `Decodex`
-`Decodex` is a Command Line Interface (CLI) application for Capture-The-Flag (CTF) players to quickly process data from one encoding format to another with extreme ease in the form of intuitive shorthand usage.
+`Decodex` is a Command Line Interface (CLI) application for Capture-The-Flag (CTF) players to quickly transform data from one format to another easily and intuitively.
 
 ## Summary of Contributions
 Below are my contributions to the `Decodex`
